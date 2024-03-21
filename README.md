@@ -52,7 +52,21 @@ From this bar graph, movies with the combination of genres (Action, Adventure an
 
 Thus, I would recommend that Microsoft's studio produce movies with this mix.
 
+To achieve the above result, I found the mean data of genres column in correspondence to the number of votes the movies got.
+
 ## FINDING 2
+
+![image](https://github.com/Kelsey-Maina/movie_data_analysis/assets/162282707/c522546e-8229-42ee-a774-0833ff21595a)
+
+From the bar plot , we discover that most movies are released in the month of December and the last quarter of the year.
+
+I would recommend the Microsoft's new studio torelease movies mid yearto avoid competition for viewership.
+
+To achieve this result, I checked from the release date the month with the highest number of movie releases.
+
+## FINDING 3
+
+
 
 
 
