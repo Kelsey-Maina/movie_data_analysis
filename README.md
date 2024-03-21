@@ -46,6 +46,16 @@ The Data Tools used are: Pandas, Numpy, Seaborn, Matplotlib and SQL
 
 ## FINDING 1
 
+![image](https://github.com/Kelsey-Maina/movie_data_analysis/assets/162282707/d7333c79-5bcd-41f5-9ce2-12b6c5f5b18c)
+
+From this bar graph, movies with the combination of genres (Action, Adventure and Sci-fi) are the most popular.
+
+Thus, I would recommend that Microsoft's studio produce movies with this mix.
+
+## FINDING 2
+
+
+
 
 
 
